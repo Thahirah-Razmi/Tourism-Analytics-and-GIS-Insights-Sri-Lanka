@@ -108,6 +108,8 @@ Improved understanding of how geographic positioning supports operational effici
 **Outcome:**  
 A centralised geospatial data management system that shows how location and infrastructure influence tourism development.
 
+<img width="2480" height="3507" alt="Sri Lanka Tourism Development Zones 2025" src="https://github.com/user-attachments/assets/cc769e77-3793-4b17-a320-669e788b8a91" />
+
 ---
 
 ### e. Site Suitability Analysis for Tourism Development Centre
@@ -123,6 +125,8 @@ A centralised geospatial data management system that shows how location and infr
 
 **Outcome:**  
 Identified the optimal location based on real‑world constraints, showcasing GIS as a practical tool for infrastructure planning.
+
+<img width="3507" height="2480" alt="Suitable Land Identification for Proposed Regional Tourism Development Center" src="https://github.com/user-attachments/assets/84891793-cc81-44f9-a6d7-39af7baae657" />
 
 ---
 
