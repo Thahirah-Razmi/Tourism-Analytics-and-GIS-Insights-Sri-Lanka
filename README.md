@@ -56,7 +56,7 @@ This project applies **statistical modelling** and **geospatial techniques** to 
 
 ## 📈 Analysis & Implementation
 
-### 1. Hotel Revenue Analysis (Statistical Modeling)
+### a. Hotel Revenue Analysis (Statistical Modeling)
 
 **Work performed:**
 - Data cleaning and preprocessing using R  
@@ -69,7 +69,7 @@ Identified significant factors influencing hotel revenue and delivered data‑dr
 
 ---
 
-### 2. Global Tourist Arrival Visualisation
+### b. Global Tourist Arrival Visualisation
 
 **Work performed:**
 - Transformed Excel data to CSV  
@@ -82,7 +82,7 @@ Clear visualisation of high and low tourist‑generating regions, revealing glob
 
 ---
 
-### 3. STDA Geo‑Spatial Mapping & Digitisation
+### c. STDA Geo‑Spatial Mapping & Digitisation
 
 **Work performed:**
 - Geo‑referenced maps using QGIS  
@@ -95,7 +95,7 @@ Improved understanding of how geographic positioning supports operational effici
 
 ---
 
-### 4. Tourism Development Zones Analysis (Database + GIS)
+### d. Tourism Development Zones Analysis (Database + GIS)
 
 **Work performed:**
 - Created a PostgreSQL/PostGIS database for spatial data  
@@ -108,7 +108,7 @@ A centralised geospatial data management system that shows how location and infr
 
 ---
 
-### 5. Site Suitability Analysis for Tourism Development Centre
+### e. Site Suitability Analysis for Tourism Development Centre
 
 **Work performed:**
 - Applied distance‑based constraints (e.g. proximity to schools)  
