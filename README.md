@@ -80,6 +80,8 @@ Identified significant factors influencing hotel revenue and delivered data‑dr
 **Outcome:**  
 Clear visualisation of high and low tourist‑generating regions, revealing global tourism trends and market opportunities.
 
+<img width="1288" height="863" alt="image" src="https://github.com/user-attachments/assets/2dfdea83-39e3-45af-8792-95e4e5be7172" />
+
 ---
 
 ### c. STDA Geo‑Spatial Mapping & Digitisation
