@@ -93,6 +93,8 @@ Clear visualisation of high and low tourist‑generating regions, revealing glob
 **Outcome:**  
 Improved understanding of how geographic positioning supports operational efficiency, demonstrating the value of spatial data in administrative planning.
 
+<img width="3507" height="2480" alt="Digitized Map of SLTDA and Suburbs" src="https://github.com/user-attachments/assets/82bfee32-e4f9-4b60-9744-727a14d4625c" />
+
 ---
 
 ### d. Tourism Development Zones Analysis (Database + GIS)
